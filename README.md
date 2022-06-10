@@ -9,6 +9,6 @@
 - `git push` - Push all current committed code. Commit often, push stable code
 - `git checkout -b "name"` - Used to create a new branch with specified name
 
-[More Useful Commands](https://gist.github.com/hofmannsven/6814451)
-[Amend username](https://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit)
-[Remote Repo](https://matthew-brett.github.io/curious-git/curious_remotes.html)
+- [More Useful Commands](https://gist.github.com/hofmannsven/6814451)
+- [Amend username](https://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit)
+- [Remote Repo](https://matthew-brett.github.io/curious-git/curious_remotes.html)
